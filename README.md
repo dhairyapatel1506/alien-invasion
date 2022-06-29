@@ -6,4 +6,4 @@ Inspired from the classic arcade game Space Invaders.
 - The latest version of pygame.
 
 # Setup
-- pip3 install pygame
+- Installs pygame: pip3 install pygame
