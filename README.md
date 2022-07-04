@@ -2,7 +2,7 @@
 Inspired from the classic arcade game Space Invaders.
 
 # Requirements
-- The latest version of Python.
+- Python 3.9.5 or lower.
 - The latest version of pygame.
 
 # Setup
