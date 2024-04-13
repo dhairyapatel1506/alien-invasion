@@ -10,5 +10,5 @@ Inspired from the classic arcade game Space Invaders.
 # Setup
 - Install pygame: ```pip3 install pygame```
 
-# Run
-```python3 alien_invasion.py```
+# Usage
+- Run: ```python3 alien_invasion.py```
