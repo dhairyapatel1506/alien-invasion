@@ -8,7 +8,7 @@ Inspired from the classic arcade game Space Invaders.
 - pygame library
 
 # Setup
-- Install pygame: ```pip3 install pygame```
+- Install pygame: ```pip install pygame```
 
 # Usage
-- Run: ```python3 alien_invasion.py```
+- Run: ```python alien_invasion.py```
